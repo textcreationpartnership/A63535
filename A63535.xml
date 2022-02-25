@@ -1,0 +1,1267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True list of the bishops, nobility, officers of state, commissioners for shires and boroughs of the Kingdom of Scotland, called in Parliament holden at Edinburgh the 28th of July, 1681 by his Royal Highness, James Duke of Albanie and York ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63535</idno>
+            <idno type="STC">Wing T2723A</idno>
+            <idno type="STC">ESTC R34080</idno>
+            <idno type="EEBO-CITATION">13706967</idno>
+            <idno type="OCLC">ocm 13706967</idno>
+            <idno type="VID">101496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1054:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True list of the bishops, nobility, officers of state, commissioners for shires and boroughs of the Kingdom of Scotland, called in Parliament holden at Edinburgh the 28th of July, 1681 by his Royal Highness, James Duke of Albanie and York ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randolph Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament.</term>
+               <term>Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb facs="tcp:101496:1"/>
+            <head>A true <hi>LIST</hi> of the Biſhops, Nobility, Officers of State, Commiſſioners for Shires and Boroughs of the Kingdom of <hi>Scotland,</hi> called in Parliament, holden at <hi>Edinburgh</hi> the 28th of <hi>July 1681.</hi> By his Royal Highneſs, <hi>James</hi> Duke of <hi>Albanie</hi> and <hi>York,</hi> his Majeſties High-Commiſſioner. With their Titles of Honour and Surnames; As alſo the Names of the Lords of the Articles, and the Committe of Elections.</head>
+            <list>
+               <head>Firſt for the Clergie in PARLIAMENT.</head>
+               <item>
+                  <hi>Arch Biſhops and Biſhops</hi> 14.
+<list>
+                     <item>ARch-Biſhop of St. <hi>Andrews.</hi>
+                     </item>
+                     <item>Arch Biſhop of <hi>Glaſgow.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Edinborough.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Galloway.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Dunkel,</hi>
+                     </item>
+                     <item>Biſhop of <hi>Aberdeen.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Murray.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Roſs.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Breichen.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Dumblain.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Cathnaſs.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Iſlles.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Argyle.</hi>
+                     </item>
+                     <item>Biſhop of <hi>Orkney.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>For the Nobility.</head>
+               <item>
+                  <hi>Dukes</hi> 6.
+<list>
+                     <item>Leifly <hi>Rothes Lord High-Chancellor,</hi> ſince dead.</item>
+                     <item>Maitland <hi>Lauderdale,</hi> Preſi<g ref="char:EOLhyphen"/>dent of the Council.</item>
+                     <item>Murray <hi>Athol,</hi> Lord Privy-Seal-</item>
+                     <item>Steuart <hi>Leonex &amp; Richmond.</hi>
+                     </item>
+                     <item>Hamilton <hi>Hamilton.</hi>
+                     </item>
+                     <item>Scot <hi>Buccleugh &amp; Monmouth.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Marqueſſes.</hi> 3.
+<list>
+                     <item>Gorgon <hi>Huntlie.</hi>
+                     </item>
+                     <item>Douglaſ s <hi>Douglaſs.</hi>
+                     </item>
+                     <item>Graham <hi>Montroſs.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Earls</hi> 62.
+<list>
+                     <item>Murray <hi>Stuart.</hi> Now Lord Secretary.</item>
+                     <item>Argyle <hi>Campbell.</hi>
+                     </item>
+                     <item>Crawford <hi>Lindſey.</hi>
+                     </item>
+                     <item>Errol <hi>Hay.</hi> Lord High-Con<g ref="char:EOLhyphen"/>ſtable.</item>
+                     <item>Marſhall <hi>Keith.</hi>
+                     </item>
+                     <item>Southerland <hi>Southerland.</hi>
+                     </item>
+                     <item>Marr <hi>Ereskine.</hi>
+                     </item>
+                     <item>Airth <hi>Graham.</hi>
+                     </item>
+                     <item>Morton <hi>Douglaſs.</hi>
+                     </item>
+                     <item>Burhan <hi>Eriskine.</hi>
+                     </item>
+                     <item>Glencairn <hi>Cunningham.</hi>
+                     </item>
+                     <item>Eglington <hi>Mountgomery.</hi>
+                     </item>
+                     <item>Caſsles <hi>Kennidie.</hi>
+                     </item>
+                     <item>Caithneſs <hi>Sinclare.</hi>
+                     </item>
+                     <item>Nitiſdale Maxwell.</item>
+                     <item>Wintowne Seatowne.</item>
+                     <item>Linlithgow <hi>Levinſtoun.</hi>
+                     </item>
+                     <item>Home <hi>Home.</hi>
+                     </item>
+                     <item>Pearth <hi>Drummound.</hi>
+                     </item>
+                     <item>Dumfermling <hi>Seatown,</hi>
+                     </item>
+                     <item>Wigtoun <hi>Fleminge.</hi>
+                     </item>
+                     <item>Strathmore <hi>Lyon.</hi>
+                     </item>
+                     <item>Abercorn <hi>Hamilton.</hi>
+                     </item>
+                     <item>Roxborough Ker.</item>
+                     <item>Kellie <hi>Ereskine.</hi>
+                     </item>
+                     <item>Hadington <hi>Hamilton.</hi>
+                     </item>
+                     <item>Galloway <hi>Stuart.</hi>
+                     </item>
+                     <item>Seaforth <hi>Mac-kenzie.</hi>
+                     </item>
+                     <item>Lothian <hi>Ker.</hi>
+                     </item>
+                     <item>Kinoule <hi>Hay.</hi>
+                     </item>
+                     <item>Loudoun <hi>Campbell.</hi>
+                     </item>
+                     <item>Dumfreiſe <hi>Creighton,</hi>
+                     </item>
+                     <item>Queensberrie <hi>Douglaſs.</hi>
+                     </item>
+                     <item>Sterling <hi>Alexander.</hi>
+                     </item>
+                     <item>Elgin <hi>Bruce.</hi>
+                     </item>
+                     <item>South-Eskie <hi>Carnagie.</hi>
+                     </item>
+                     <item>Traquaire <hi>Stuart.</hi>
+                     </item>
+                     <item>Ancram <hi>Ker.</hi>
+                     </item>
+                     <item>Weims <hi>Weimes.</hi>
+                     </item>
+                     <item>Dalhouſie <hi>Ramſey.</hi>
+                     </item>
+                     <item>Airlie <hi>Ogilvie.</hi>
+                     </item>
+                     <item>Carnwath <hi>Dalziel.</hi>
+                     </item>
+                     <item>Finlator <hi>Ogilvie.</hi>
+                     </item>
+                     <item>Callender <hi>Levingſtone.</hi>
+                     </item>
+                     <item>Leven <hi>Leſlie.</hi>
+                     </item>
+                     <item>Annandale <hi>Jonſtoun.</hi>
+                     </item>
+                     <item>Penmeure <hi>Mauld.</hi>
+                     </item>
+                     <item>Tweddell <hi>Hay.</hi>
+                     </item>
+                     <item>Dyfert <hi>Murray.</hi>
+                     </item>
+                     <item>Northeske <hi>Carnage.</hi>
+                     </item>
+                     <item>Kincarden <hi>Bruce.</hi>
+                     </item>
+                     <item>Forfar <hi>Douglaſs.</hi>
+                     </item>
+                     <item>Ballcarraſs <hi>Lindſey.</hi>
+                     </item>
+                     <item>Middlton <hi>Middlton.</hi>
+                     </item>
+                     <item>Aboyne <hi>Gordone.</hi>
+                     </item>
+                     <item>Tarraſs <hi>Scot.</hi>
+                     </item>
+                     <item>Newburgh <hi>Levingſtone.</hi>
+                     </item>
+                     <item>Kilmarnock <hi>Boyd.</hi>
+                     </item>
+                     <item>Dundonald <hi>Cochraine.</hi>
+                     </item>
+                     <item>Dumbarton <hi>Douglaſs.</hi>
+                     </item>
+                     <item>Kintore <hi>Keith.</hi>
+                     </item>
+                     <item>Broadalbyne <hi>Campbell.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Viſcounts</hi> 13.
+<list>
+                     <item>Faulkland <hi>Carey.</hi>
+                     </item>
+                     <item>Dumbar <hi>Conſtable.</hi>
+                     </item>
+                     <item>Stormount <hi>Murray.</hi>
+                     </item>
+                     <item>Kenmure <hi>Gordone.</hi>
+                     </item>
+                     <item>Arbuthnet <hi>Arbuthnet.</hi>
+                     </item>
+                     <item>Frendraught <hi>Creighton.</hi>
+                     </item>
+                     <item>Kingſtoun <hi>Seatoun.</hi>
+                     </item>
+                     <item>Oxenford <hi>Macgil.</hi>
+                     </item>
+                     <item>Kilſyth <hi>Levinſtone.</hi>
+                     </item>
+                     <item>Irwinge <hi>Campbell.</hi>
+                     </item>
+                     <item>Dumblain <hi>Osborne.</hi>
+                     </item>
+                     <item>Preſton <hi>Graham.</hi>
+                     </item>
+                     <item>Newhaven <hi>Sheene.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lords</hi> 48.
+<list>
+                     <item>Forbes <hi>Forbes.</hi>
+                     </item>
+                     <item>Saltoun <hi>Fraizer.</hi>
+                     </item>
+                     <item>Gray <hi>Gray.</hi>
+                     </item>
+                     <item>Ochiltrie <hi>Stuart.</hi>
+                     </item>
+                     <item>Cathcart <hi>Cathcart.</hi>
+                     </item>
+                     <item>Sinclare <hi>Sinclare.</hi>
+                     </item>
+                     <item>Mordington <hi>Douglaſs.</hi>
+                     </item>
+                     <item>Semple <hi>Semple.</hi>
+                     </item>
+                     <item>Elphingſtoun <hi>Elphingſtoun.</hi>
+                     </item>
+                     <item>Oliphant <hi>Oliphant.</hi>
+                     </item>
+                     <item>Lovat <hi>Frazier.</hi>
+                     </item>
+                     <item>Borthwick <hi>Borthwick.</hi>
+                     </item>
+                     <item>Roſs <hi>Roſs.</hi>
+                     </item>
+                     <item>Torphighen <hi>Sandilands.</hi>
+                     </item>
+                     <item>Spyne <hi>Lindſey.</hi>
+                     </item>
+                     <item>Londoris <hi>Leſley.</hi>
+                     </item>
+                     <item>Balmerinoch <hi>Elphingſtoun.</hi>
+                     </item>
+                     <item>Blantyre <hi>Stuart.</hi>
+                     </item>
+                     <item>Cardroſs <hi>Eriskine.</hi>
+                     </item>
+                     <item>Brughlie <hi>Balfour.</hi>
+                     </item>
+                     <item>Madertee <hi>Drummond.</hi>
+                     </item>
+                     <item>Cranſtoun <hi>Cranſtoun.</hi>
+                     </item>
+                     <item>Jedburgh <hi>Ker.</hi>
+                     </item>
+                     <item>Melvill <hi>Melvill.</hi>
+                     </item>
+                     <item>Neaper <hi>Neaper</hi>
+                     </item>
+                     <item>Camron <hi>Fairfax.</hi>
+                     </item>
+                     <item>Cramond <hi>Richardſon.</hi>
+                     </item>
+                     <item>Rae <hi>Mackie.</hi>
+                     </item>
+                     <item>Forreſter <hi>Bailzie.</hi>
+                     </item>
+                     <item>Kirkcudbright <hi>Maccleland.</hi>
+                     </item>
+                     <item>Frazier <hi>Frazier.</hi>
+                     </item>
+                     <item>
+                        <hi>Bargany Hamilton.</hi>
+                     </item>
+                     <item>Bamph <hi>Ogilvie.</hi>
+                     </item>
+                     <item>Elebanck <hi>Murray.</hi>
+                     </item>
+                     <item>Dunkeld <hi>Galloway.</hi>
+                     </item>
+                     <item>Halcarton <hi>Falconer.</hi>
+                     </item>
+                     <item>Balhaven <hi>Hamilton.</hi>
+                     </item>
+                     <item>Abercrombe <hi>Sandilands.</hi>
+                     </item>
+                     <item>Carmichael <hi>Carmichael.</hi>
+                     </item>
+                     <item>Rollo <hi>Rollo.</hi>
+                     </item>
+                     <item>Colvill <hi>Colvill.</hi>
+                     </item>
+                     <item>Duffuſs <hi>Southerland.</hi>
+                     </item>
+                     <item>Ruthven <hi>Ruthven.</hi>
+                     </item>
+                     <item>Mac-Donald <hi>Mac-Donald.</hi>
+                     </item>
+                     <item>Rutherford <hi>Rutherford.</hi>
+                     </item>
+                     <item>Balanden <hi>Balenden.</hi>
+                     </item>
+                     <item>Newark <hi>Leſlie.</hi>
+                     </item>
+                     <item>Burnt-Iſland <hi>Weimes.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Other Officers of State</hi> 4.
+<list>
+                     <item>Treaſurer Deputy.</item>
+                     <item>Lord Regiſter.</item>
+                     <item>Lord Advocate.</item>
+                     <item>Juſtice Clark.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Commiſſioners of Shires.</head>
+               <item>
+                  <hi>Edinbrough.</hi>
+                  <list>
+                     <item>
+                        <hi>SIR</hi> James Fowles of <hi>Col<g ref="char:EOLhyphen"/>lington.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Couper <hi>of Gogar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hedingtoun.</hi>
+                  <list>
+                     <item>Andrew Fletcher <hi>of Salton.</hi>
+                     </item>
+                     <item>Cockburn <hi>of Ormeſton.</hi>
+                     </item>
+                     <item>Hepburn <hi>of Humbyſton</hi>
+                     </item>
+                     <item>Wedderburn <hi>of Goſsford,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Berwick.</hi>
+                  <list>
+                     <item>
+                        <hi>Double Elections.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Roxborough.</hi>
+                  <list>
+                     <item>Henry Mac Dougal <hi>of Macker<g ref="char:EOLhyphen"/>ſtone.</hi>
+                     </item>
+                     <item>Robert Pringle <hi>of Stichell.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Selkirke.
+<list>
+                     <item>James Murray <hi>of Philip Haugh.</hi>
+                     </item>
+                     <item>Hugh Scot <hi>of Galla Sheiles.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Peebles.</hi>
+                  <list>
+                     <item>
+                        <hi>Double Elections.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lannark.</hi>
+                  <list>
+                     <item>Cromwell Lockhart <hi>of Lee.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> George Lockhart <hi>of Bread<g ref="char:EOLhyphen"/>wood.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dumfriſe.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Robert Dalzel <hi>of Glenad.</hi>
+                     </item>
+                     <item>Robert Greirſon <hi>of Lagg.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Wigtoun.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Tames Darlimpell <hi>of Staar</hi>
+                     </item>
+                     <item>Lord Cheif Juſtice.</item>
+                     <item>
+                        <hi>Sir</hi> David Dunbar <hi>of Baldoon.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Aire.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> John Cochran <hi>of Ochiltrie.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Kunningham <hi>of Lambrughton.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dumbarton.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Patrick Houſetoun <hi>of Hou<g ref="char:EOLhyphen"/>ſtoun.</hi>
+                     </item>
+                     <item>William Noble <hi>of Dalaotar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Bute.</hi>
+                  <list>
+                     <item>John Boyl <hi>of Kelbourn.</hi>
+                     </item>
+                     <item>Minran Banantine <hi>of Kames.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Renfrew.</hi>
+                  <list>
+                     <item>William Hamilton <hi>of Orbiſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Shaw, <hi>of Greenoch.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Sterlinge,
+<list>
+                     <item>James Seatoun <hi>of Touch.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Linlithgon.</hi>
+                  <list>
+                     <item>
+                        <hi>Double Elections.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Perth.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> William Drummond <hi>of Cromlix.</hi>
+                     </item>
+                     <item>Mungo Halden <hi>of Glennegies.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kincardin.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Alexander Falconer <hi>of Glenfarge.</hi>
+                     </item>
+                     <item>Sir John Falconer of Balmakellie.</item>
+                  </list>
+               </item>
+               <item>Aberdeen.
+<list>
+                     <item>
+                        <hi>Sir</hi> Alexander Seatoun <hi>of Pitt Maddin.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> George Gordon <hi>of Haddo.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Innerneſs.</hi>
+                  <list>
+                     <item>Double Elections.</item>
+                  </list>
+               </item>
+               <item>Nairne.
+<list>
+                     <item>
+                        <hi>Sir</hi> Hugh Kampbell <hi>of Caddel.</hi>
+                     </item>
+                     <item>Duncan Forbes <hi>of Culloden.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cromartie.</hi>
+                  <list>
+                     <item>George Dallaſs <hi>of St. Martins.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Argyle.</hi>
+                  <list>
+                     <item>John Campbell <hi>of Canrick.</hi>
+                     </item>
+                     <item>John Campbell <hi>of Succoth.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fyſe.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Charles Hacket <hi>of Pitferen.</hi>
+                     </item>
+                     <item>Wil. Anſtruther <hi>of Anſtruther.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Forfarr.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> David Ogilvie <hi>of Clouah.</hi>
+                     </item>
+                     <item>James Carnegie <hi>of Balnamoon.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Bamff.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Patrick Ogilvie <hi>of Boyne.</hi>
+                     </item>
+                     <item>George Gordone <hi>of Edenglaſſie.</hi>
+                     </item>
+                     <item>
+                        <hi>Stewarty of Kircudbright.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Robert Maxwell <hi>of Orchar<g ref="char:EOLhyphen"/>ton.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Southerland.</hi>
+                  <list>
+                     <item>Robert Gordone, <hi>jun. of Gor<g ref="char:EOLhyphen"/>donſtone.</hi>
+                     </item>
+                     <item>John Gordone <hi>of Embole.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cathneſs.</hi>
+                  <list>
+                     <item>George Sinclare <hi>of Vlbſtur.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Elgin.</hi>
+                  <list>
+                     <item>Lodowick Grant <hi>of Frenchie.</hi>
+                     </item>
+                     <item>Thomas Dunbarr <hi>of Grange.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Orkney.</hi>
+                  <list>
+                     <item>William Craigie <hi>of Garſay.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Clackmanan.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> William Sharpe <hi>of Stony<g ref="char:EOLhyphen"/>hill</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Roſs.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> George Mackenzie <hi>of Tor<g ref="char:EOLhyphen"/>bett.</hi>
+                     </item>
+                     <item>Roderick Mackenzie <hi>of Findon.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kinroſs.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> William Bruce <hi>of Balcaſs<g ref="char:EOLhyphen"/>kie.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Commiſſioners of Boroughs.</head>
+               <item>
+                  <hi>Edinburgh.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> James Dick <hi>of Preiſtfield</hi> Lord Provoſt.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Perth.</hi>
+                  <list>
+                     <item>John Glaſs <hi>Provoſt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dundee.</hi>
+                  <list>
+                     <item>John Scrimger.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Aberdeen.</hi>
+                  <list>
+                     <item>George Skene <hi>Provoſt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sterlinge.</hi>
+                  <list>
+                     <item>Robert Ruſſel</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Linlithgow.</hi>
+                  <list>
+                     <item>Alexander Milne.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>St. Andrews.</hi>
+                  <list>
+                     <item>John Eaſon <hi>Maſter of Arts.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Glaſgow.</hi>
+                  <list>
+                     <item>John Bell.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Aire.</hi>
+                  <list>
+                     <item>William Cunningham.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Haddington.</hi>
+                  <list>
+                     <item>Hen. Cockburn <hi>Maſter of Arts.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dyſert.</hi>
+                  <list>
+                     <item>John Reddie.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kircaldie.</hi>
+                  <list>
+                     <item>John Williamſon.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Montroſs.</hi>
+                  <list>
+                     <item>Robert Reynald.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Couper.</hi>
+                  <list>
+                     <item>Patrick Mortimer.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Anſtruther.</hi>
+                  <list>
+                     <item>Robert Anſtruther.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dumfriſe.</hi>
+                  <list>
+                     <item>William Craike.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Innerneſs.</hi>
+                  <list>
+                     <item>William Duff.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Burnt Iſland.</hi>
+                  <list>
+                     <item>James Dewar.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Inner Kething.</hi>
+                  <list>
+                     <item>John Dempſter.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kinghorne.</hi>
+                  <list>
+                     <item>Robert Bruce.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Breichen.</hi>
+                  <list>
+                     <item>David Donaldſon.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Erwin,</hi>
+                  <list>
+                     <item>James Boyle.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Jedburgh.</hi>
+                  <list>
+                     <item>Andrew Einſley.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kirkcudbright.</hi>
+                  <list>
+                     <item>Samuel Carmont.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Wigtoun.</hi>
+                  <list>
+                     <item>William Colterrain.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dumfermling.</hi>
+                  <list>
+                     <item>Andrew Belfrage.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Pettinwin.</hi>
+                  <list>
+                     <item>George Ruſſel.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Selkirk.</hi>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Patrick Murray.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dumbarton.</hi>
+                  <list>
+                     <item>William Macfarland.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Renfrew.</hi>
+                  <list>
+                     <item>Robert Hall.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dumbar.</hi>
+                  <list>
+                     <item>James Hammilton.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lanerk.</hi>
+                  <list>
+                     <item>William Wilkie.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Abberbrothock.</hi>
+                  <list>
+                     <item>John Kidd.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Elgin.</hi>
+                  <list>
+                     <item>John Fyfe.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Peebles.</hi>
+                  <list>
+                     <item>William Williamſon.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Carril.</hi>
+                  <list>
+                     <item>George Moncreiff.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Taine.</hi>
+                  <list>
+                     <item>John Forreſter.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Culroſs.</hi>
+                  <list>
+                     <item>George Wilſon.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Bamff.</hi>
+                  <list>
+                     <item>William Fyfe.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Whithorn.</hi>
+                  <list>
+                     <item>David Forreſter.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Forfar.</hi>
+                  <list>
+                     <item>John Carnegie.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Rotheſay.</hi>
+                  <list>
+                     <item>Cuthbert Stuart.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Nairne.</hi>
+                  <list>
+                     <item>John Roſs.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Forreſs.</hi>
+                  <list>
+                     <item>Thomas Urquhart.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Rutherglen.</hi>
+                  <list>
+                     <item>Double Elections.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>North Berwick.</hi>
+                  <list>
+                     <item>Double Elections.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cullen.</hi>
+                  <list>
+                     <item>James Ogilvie.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kilrinnie.</hi>
+                  <list>
+                     <item>Double Elections.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lauder.</hi>
+                  <list>
+                     <item>Charles Lauder.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kintore.</hi>
+                  <list>
+                     <item>John Udney.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Annand.</hi>
+                  <list>
+                     <item>James Carruthers.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lochmaben.</hi>
+                  <list>
+                     <item>John Johnſton.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sanquhar.</hi>
+                  <list>
+                     <item>Robert Carmichael.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>New Galloway.</hi>
+                  <list>
+                     <item>Double Elections.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fort Reſs.</hi>
+                  <list>
+                     <item>Robert Inneſs.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dingwall.</hi>
+                  <list>
+                     <item>Donald Baine.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dornoch.</hi>
+                  <list>
+                     <item>Double Elections.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Queensferrie.</hi>
+                  <list>
+                     <item>James Hill.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Inneraray.</hi>
+                  <list>
+                     <item>William Brown.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Innerury.</hi>
+                  <list>
+                     <item>John Anderſon.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Roſe Marky.</hi>
+                  <list>
+                     <item>Double Elections.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cromarty.</hi>
+                  <list>
+                     <item>Double Elections.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Week.</hi>
+                  <list>
+                     <item>Alexander Manſon.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Kirkwall.</hi>
+                  <list>
+                     <item>David Cragy.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Innerbervie.</hi>
+                  <list>
+                     <item>Alexander Man.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Names of the Lord of Articles.</head>
+               <item>
+                  <hi>For the Clergy.</hi>
+                  <list>
+                     <item>Arch-biſhop <hi>of St. Andrews.</hi>
+                     </item>
+                     <item>Arch-biſhop <hi>of Glaſgow.</hi>
+                     </item>
+                     <item>Biſhop <hi>of Edinburgh.</hi>
+                     </item>
+                     <item>Biſhop <hi>of Dunkell.</hi>
+                     </item>
+                     <item>Biſhop <hi>of Roſs.</hi>
+                     </item>
+                     <item>Biſhop <hi>of Breichen.</hi>
+                     </item>
+                     <item>Biſhop <hi>of Dumblean.</hi>
+                     </item>
+                     <item>Biſhop <hi>of Cathneſs.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Commiſſioners of Shires.</hi>
+                  <list>
+                     <item>
+                        <hi>Preſident of Seſſion Sir</hi> William Dalrimple <hi>of Staar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Georgo Mackenzie <hi>of Tarbet</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> James Foulis <hi>of Collington.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> George Gordon <hi>of Haddo.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> George Lockhart.</item>
+                     <item>James Seaton <hi>of Touch.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> William Sharp.</item>
+                     <item>
+                        <hi>Sir</hi> Patrick Ogilvie <hi>of Boyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Together with the Officers of State.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Nobility.</hi>
+                  <list>
+                     <item>Duke <hi>of Hamiltone.</hi>
+                     </item>
+                     <item>Marqueſs <hi>of Montroſs.</hi>
+                     </item>
+                     <item>Earl <hi>of Argyle.</hi>
+                     </item>
+                     <item>Earl <hi>of Errol.</hi>
+                     </item>
+                     <item>Earl <hi>Marſhall.</hi>
+                     </item>
+                     <item>Earl <hi>of Pearth.</hi>
+                     </item>
+                     <item>Earl <hi>of Dumfreis.</hi>
+                     </item>
+                     <item>Earl <hi>of Queensberry.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Commiſſioners of Boroughs.</hi>
+                  <list>
+                     <item>
+                        <hi>The</hi> Provoſt <hi>of Edinburgh.</hi>
+                     </item>
+                     <item>George Skone <hi>Commiſſioner for Abberdeen.</hi>
+                     </item>
+                     <item>John Bell, <hi>Provoſt of Glaſgow.</hi>
+                     </item>
+                     <item>John Eaſon, <hi>Maſter of Arts, Commiſſioner for St Andrews.</hi>
+                     </item>
+                     <item>Robert Ruſſel <hi>Commiſſioner for Striveling.</hi>
+                     </item>
+                     <item>Alexander Milne <hi>Commiſſioner for Linlithgow.</hi>
+                     </item>
+                     <item>Robert Renald <hi>Commiſſioner for Montroſs.</hi>
+                     </item>
+                     <item>William Duff <hi>Commiſſioner for lnnerneſs.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>The Names of the Committee for Controverted Elections.</hi>
+                  <list>
+                     <item>
+                        <hi>His Majeſties Commiſſioner.</hi>
+                     </item>
+                     <item>
+                        <hi>The</hi> Biſhop <hi>of Edinbrugh.</hi> For the Clergy</item>
+                     <item>
+                        <hi>The</hi> Biſhop <hi>of Galloway.</hi> For the Clergy</item>
+                     <item>
+                        <hi>The</hi> Biſhop <hi>of Murray.</hi> For the Clergy</item>
+                     <item>The Earls of Marr, Erroll, <hi>and</hi> Lord Roſs, <hi>for the Nobility.</hi>
+                     </item>
+                     <item>Pitmedden Gordenſtoun, <hi>and Sir</hi> Robert Dalzell, <hi>For the Barrons.</hi>
+                     </item>
+                     <item>
+                        <hi>The</hi> Provoſt <hi>of Edinburgh, Aberdeen, and Glaſgow, for the Burroughs.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Randolph Taylor.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
